@@ -9,6 +9,7 @@ wordpress/wp-includes
 wordpress/.htaccess
 wordpress/*.php
 wordpress/*.html
+wordpress/trunk
 
 # ignore log files and databases
 *.log
